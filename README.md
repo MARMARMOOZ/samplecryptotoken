@@ -1,0 +1,2 @@
+# samplecryptotoken
+یک توکن ارزدیجیتال
